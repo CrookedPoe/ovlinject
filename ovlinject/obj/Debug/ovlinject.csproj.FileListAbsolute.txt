@@ -1,0 +1,7 @@
+C:\Users\Nick\source\repos\ovlinject\ovlinject\bin\Debug\ovlinject.exe.config
+C:\Users\Nick\source\repos\ovlinject\ovlinject\bin\Debug\ovlinject.exe
+C:\Users\Nick\source\repos\ovlinject\ovlinject\bin\Debug\ovlinject.pdb
+C:\Users\Nick\source\repos\ovlinject\ovlinject\obj\Debug\ovlinject.csprojResolveAssemblyReference.cache
+C:\Users\Nick\source\repos\ovlinject\ovlinject\obj\Debug\ovlinject.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\ovlinject\ovlinject\obj\Debug\ovlinject.exe
+C:\Users\Nick\source\repos\ovlinject\ovlinject\obj\Debug\ovlinject.pdb
